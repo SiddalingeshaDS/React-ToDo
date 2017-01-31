@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 You can find the most recent version of the guide about react [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
 ## Objective
-This application was built to understand and learn about the ReachJS library. In this project I built the todo application with basic features to add,delete, toggle complete todo items and store the same in server.
+This application was built to understand and learn about the ReactJS library. In this project I built the todo application with basic features to add,delete, toggle complete todo items and store the same in server.
 
 ## Pre-requisites
 This project requires npm to be installed to run.
